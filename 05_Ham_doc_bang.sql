@@ -1,4 +1,5 @@
-﻿CREATE DATABASE TestDB
+Thuc hanh GitHub
+CREATE DATABASE TestDB
 GO
 USE TestDB
 GO
